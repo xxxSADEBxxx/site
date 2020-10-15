@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#a{
+    height: 400px;
+    background-color: lawngreen;
+    display: flex;
+}
+
+#z1{background-color: red;
+    flex-grow: 1;
+    background-image: url(https://www.avtovzglyad.ru/media/article/Lamborghini_Sian.jpg.740x555_q85_box-1367%2C0%2C7377%2C4513_crop_detail_upscale.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#z2{background-color: blue;
+    flex-grow: 1;
+    background-image: url(https://a.d-cd.net/7888e72s-960.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#z3{background-color: white;
+    flex-grow: 1;
+    background-image: url(https://media.tvzvezda.ru/news/vstrane_i_mire/content/201705171950-kpo2.htm/1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
